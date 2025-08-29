@@ -20,7 +20,7 @@ Este repositório contém meus estudos e experimentos utilizando o **Robot Frame
   2. Pesquisar por "celulares".  
   3. Validar que os resultados foram exibidos corretamente.  
 
-### 🎓 Curso OrangeJuice (Console)
+### 🎓 To Console
 - **Cenário:** Exibir mensagem personalizada no console.  
 - **Passos:**
   1. Receber o nome do usuário como variável.  
@@ -46,26 +46,29 @@ Este repositório contém meus estudos e experimentos utilizando o **Robot Frame
 
 🔹 log.html
 
-Exibe estatísticas da execução.
+- Exibe estatísticas da execução.
 
-Mostra as SUITES para aprofundamento de resultados.
+- Mostra as SUITES para aprofundamento de resultados.
 
-Útil para encontrar melhorias nos casos de teste.
+- Útil para encontrar melhorias nos casos de teste.
 
 🔹 report.html
 
-Apresenta detalhes e estatísticas dos testes.
+- Apresenta detalhes e estatísticas dos testes.
 
-Permite pesquisar casos específicos.
+- Permite pesquisar casos específicos.
 
 🔹 output.xml
 
-Contém o código XML dos testes.
+- Contém o código XML dos testes.
 
-Usado em integrações e pipelines de automação.
+- Usado em integrações e pipelines de automação.
 
 📌 Observações
 Os testes foram feitos com foco educacional, visando aprender e aplicar práticas de automação de testes.
 Próximos passos incluem integração com CI/CD e execução em Docker para ambiente padronizado.
 
+---
+
 📅 Objetivo: Estudos e prática em automação de testes com Robot Framework.
+
