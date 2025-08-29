@@ -1,6 +1,6 @@
 # 🤖 Estudos com Robot Framework
 
-Este repositório contém meus estudos e experimentos utilizando o **Robot Framework**, explorando automação de testes em diferentes cenários, como **Amazon Search** e **Mercado Livre (OrangeJuice)**.
+Este repositório contém meus estudos e experimentos utilizando o **Robot Framework**, explorando automação de testes em diferentes cenários, como **Amazon Search** e **Mercado Livre do criador de conteúdo (OrangeJuice)**.
 
 ---
 
@@ -71,4 +71,5 @@ Próximos passos incluem integração com CI/CD e execução em Docker para ambi
 ---
 
 📅 Objetivo: Estudos e prática em automação de testes com Robot Framework.
+
 
